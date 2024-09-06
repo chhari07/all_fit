@@ -1,0 +1,10 @@
+.menuIcon.active .close-outline {
+    display: inline-block;
+    color: white;
+    font-size: 4.2rem;
+    position: absolute;
+    top: 1.5rem;
+    right: 2rem;
+    cursor: pointer;
+  }
+  
